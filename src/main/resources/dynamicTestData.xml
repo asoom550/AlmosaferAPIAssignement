@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<searchHotelsRequestBodyData>
+    <checkIn>2023-04-14</checkIn>
+    <checkOut>2023-04-15</checkOut>
+    <placeId>ChIJQSqV5z-z5xURm7YawktQYFk</placeId>
+    <token>skdjfh73273$7268u2j89s</token>
+    <getFlightsQuryParam>RUH-JED/2023-04-03/Economy/1Adult</getFlightsQuryParam>
+</searchHotelsRequestBodyData>
+
